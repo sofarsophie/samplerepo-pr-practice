@@ -12,3 +12,8 @@ Install nus:
 ```
 install nus
 ```
+# Contributors
+This repo was created by:
+* Keith (http://fakehub.com/keith)
+* Sophie (http://fakehub.com/soffie)
+* Anabelle (http://fakehub.com/boo)
